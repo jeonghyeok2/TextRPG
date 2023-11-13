@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLb2F/4TjKjyDX0wAZhIps7k7Bcgec7mKmSLWGwXcORmi6ujWq9ip9CF2D/noRi90hn9La+2qjf2qOY6g5/2oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\82107\\source\\repos\\ProjectTextRPG\\ProjectTextRPG\\ProjectTextRPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\82107\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
